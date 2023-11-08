@@ -7,12 +7,12 @@
 }
 
 :root {
-  --text-color: #00aa00;
+  --text-color: rgb(119, 183, 255);
 }
 
 body {
   font-family: 'Roboto Mono', sans-serif;
-  background-color: #333;
+  background-color: #1f1f1f;
   color: #ccc;
   font-size: 18px;
   line-height: 1.6;
